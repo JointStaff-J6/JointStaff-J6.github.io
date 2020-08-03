@@ -6882,10 +6882,10 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
-.cid-s6DQPVX6gN {
-  padding-top: 120px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/161116-us-army-tactical-operations-770x400.jpg");
+.cid-s6DVMo8ZkK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background41.jpg");
 }
 .cid-s6DRrbJQLZ {
   padding-top: 45px;
@@ -6896,71 +6896,123 @@ section.lazy-placeholder:after {
 .cid-s6DRrbJQLZ .ornament {
   text-align: left;
 }
-.cid-s6DTMHIn3x {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-s6DVnPftoW {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-s6DTMHIn3x .content {
+  .cid-s6DVnPftoW .content {
     text-align: center;
   }
-  .cid-s6DTMHIn3x .content > div:not(:last-child) {
+  .cid-s6DVnPftoW .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-s6DTMHIn3x .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-s6DTMHIn3x .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-s6DTMHIn3x .media-wrap img {
+.cid-s6DVnPftoW .img-logo img {
   height: 6rem;
 }
-@media (max-width: 767px) {
-  .cid-s6DTMHIn3x .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
+.cid-s6DVnPftoW .form-control {
+  margin-bottom: 1rem;
+  padding: 1.07em 1.07em;
+  background-color: #f5f5f5;
+  border: 1px solid #e8e8e8;
+  color: #656565;
+  line-height: 1.43;
+  min-height: 3.5em;
+  border-radius: .25rem;
 }
-.cid-s6DTMHIn3x .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
+.cid-s6DVnPftoW .form-control:focus,
+.cid-s6DVnPftoW .form-control:hover {
+  border: 1px solid #e8e8e8;
+  background-color: #f5f5f5;
 }
-.cid-s6DTMHIn3x .footer-lower .social-list {
+.cid-s6DVnPftoW .form-group {
+  margin-bottom: 1rem;
+}
+.cid-s6DVnPftoW input::-webkit-input-placeholder,
+.cid-s6DVnPftoW textarea::-webkit-input-placeholder {
+  color: #656565;
+}
+.cid-s6DVnPftoW input:-moz-placeholder,
+.cid-s6DVnPftoW textarea:-moz-placeholder {
+  color: #656565;
+}
+.cid-s6DVnPftoW .jq-selectbox li,
+.cid-s6DVnPftoW .jq-selectbox li {
+  background-color: #f5f5f5;
+  color: #000000;
+}
+.cid-s6DVnPftoW .jq-selectbox li:hover,
+.cid-s6DVnPftoW .jq-selectbox li.selected {
+  background-color: #f5f5f5;
+  color: #000000;
+}
+.cid-s6DVnPftoW .jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #f5f5f5;
+}
+.cid-s6DVnPftoW .jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: #f5f5f5;
+}
+.cid-s6DVnPftoW textarea.form-control {
+  resize: none;
+}
+.cid-s6DVnPftoW .input-group-btn {
+  display: inline-block;
+}
+.cid-s6DVnPftoW .input-group-btn .btn {
+  margin: 0 !important;
+  padding: .75rem 1.5625rem !important;
+  text-transform: none;
+}
+.cid-s6DVnPftoW .form-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-s6DVnPftoW .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
   display: flex;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
 }
-.cid-s6DTMHIn3x .footer-lower .social-list .mbr-iconfont-social {
+.cid-s6DVnPftoW .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-s6DTMHIn3x .footer-lower .social-list .soc-item {
+.cid-s6DVnPftoW .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-s6DTMHIn3x .footer-lower .social-list a {
+.cid-s6DVnPftoW .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-s6DTMHIn3x .footer-lower .social-list a:hover {
+.cid-s6DVnPftoW .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-s6DTMHIn3x .footer-lower .social-list {
+  .cid-s6DVnPftoW .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+@media (max-width: 767px) {
+  .cid-s6DVnPftoW .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-s6DVnPftoW .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-s6DVnPftoW .form-control,
+.cid-s6DVnPftoW .input-group-btn .btn {
+  border-radius: 3px;
 }
