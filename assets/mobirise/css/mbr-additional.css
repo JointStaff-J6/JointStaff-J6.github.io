@@ -4431,6 +4431,102 @@ section.lazy-placeholder:after {
 .cid-s6Eiy2Rral .mbr-text {
   text-align: left;
 }
+.cid-s6HQtgoGPn {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s6HQtgoGPn .mbr-section-title {
+  letter-spacing: 0.1em;
+  color: #232323;
+  margin-bottom: 2rem;
+}
+.cid-s6HQtgoGPn .mbr-section-subtitle {
+  color: #232323;
+  margin-bottom: 2rem;
+  letter-spacing: 0.03em;
+}
+.cid-s6HQtgoGPn .btn {
+  margin: 0px !important;
+}
+.cid-s6HQtgoGPn .second-col {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-s6HQtgoGPn .carousel-item {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-s6HQtgoGPn .carousel-item .media-container-row {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-s6HQtgoGPn .carousel-item .wrap-img {
+  text-align: center;
+}
+.cid-s6HQtgoGPn .carousel-item .wrap-img img {
+  max-height: 250px;
+  width: auto;
+  max-width: 100%;
+}
+.cid-s6HQtgoGPn .carousel {
+  display: flex;
+  -webkit-flex-direction: column-reverse;
+  flex-direction: column-reverse;
+  width: 100%;
+}
+.cid-s6HQtgoGPn .carousel-indicators {
+  display: block;
+  position: relative;
+  margin-top: 2rem;
+  text-align: center;
+}
+.cid-s6HQtgoGPn .carousel-indicators li {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: #cccccc;
+  display: inline-block;
+  border: 4px solid #cccccc;
+}
+.cid-s6HQtgoGPn .carousel-indicators li.active {
+  border-color: #a3a3a3;
+}
+@media (max-width: 768px) {
+  .cid-s6HQtgoGPn .second-col {
+    padding-top: 2rem;
+  }
+}
+.cid-s6HDILQUkx {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s6HDILQUkx .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s6HDILQUkx .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-s6HDILQUkx .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s6HDILQUkx .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s6HDILQUkx .section-text DIV {
+  text-align: left;
+}
 .cid-s6Ej5QWmF5 {
   padding-top: 60px;
   padding-bottom: 60px;
