@@ -2080,6 +2080,15 @@ section.lazy-placeholder:after {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/161116-us-army-tactical-operations-770x400.jpg");
 }
+.cid-s6I2BRXXvu {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s6I2BRXXvu .mbr-text,
+.cid-s6I2BRXXvu .ornament {
+  text-align: left;
+}
 .cid-s4Y7rUB7AB .navbar {
   background: #ffffff;
   transition: none;
